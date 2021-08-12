@@ -1,4 +1,8 @@
 ### Hi there, I'm Rodrigo Paulo! 👋
+> _"A chave para a transformação é a continuidade"_
+
+- Cursando Análise e Desenvolvimento de Sistemas
+- Sou Analista de Testes, atuando com automação Mobile!
 
  <div>
   <a href="https://github.com/BauerrDeveloper">
@@ -13,6 +17,7 @@
   <img align="center"  alt="Bauer-C++" height="50" width="60" src="https://raw.githubusercontent.com/BauerrDeveloper/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/cplusplus/cplusplus-original.svg">
   <img align="center"  alt="Bauer-JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/BauerrDeveloper/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg">
   <img align="center"  alt="Bauer-TypeScript" height="50" width="60" src="https://raw.githubusercontent.com/BauerrDeveloper/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg">
+ <img align="center"  alt="Bauer-Android" height="50" width="60" src="https://raw.githubusercontent.com/BauerrDeveloper/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original.svg">
   <img align="right"  alt="Bauer-GIF" height="150" width="200" src="https://i.etsystatic.com/19967806/c/1650/1317/0/0/il/085566/2667434815/il_340x270.2667434815_bvpr.jpg">
   
 </div>
