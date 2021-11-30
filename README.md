@@ -18,7 +18,8 @@
   <img align="center"  alt="Bauer-JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/BauerrDeveloper/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg">
   <img align="center"  alt="Bauer-TypeScript" height="50" width="60" src="https://raw.githubusercontent.com/BauerrDeveloper/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg">
  <img align="center"  alt="Bauer-Android" height="50" width="60" src="https://raw.githubusercontent.com/BauerrDeveloper/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original.svg">
-  <img align="right"  alt="Bauer-GIF" height="150" width="200" src="https://i.etsystatic.com/19967806/c/1650/1317/0/0/il/085566/2667434815/il_340x270.2667434815_bvpr.jpg">
+ <img align="center"  alt="Bauer-Swift" height="50" width="60" src="https://raw.githubusercontent.com/BauerrDeveloper/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/swift/swift-original.svg">
+ <img align="right"  alt="Bauer-GIF" height="150" width="200" src="https://i.etsystatic.com/19967806/c/1650/1317/0/0/il/085566/2667434815/il_340x270.2667434815_bvpr.jpg">
   
 </div>
 
